@@ -1,1 +1,1 @@
-const variavel = "olá"
+const variavel = "hello mundo";
